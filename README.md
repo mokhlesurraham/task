@@ -1,7 +1,7 @@
 # CRUD-Operation with details page
 ## Sreenshoot:
 ![crud-Op](https://github.com/mokhlesurraham/task/blob/main/output/Screenshot%20(7).png)
-![crud-Op](https://github.com/Nobin2362/CRUD_Operation/blob/main/Mokhles.jpg)
+![crud-Op](https://github.com/mokhlesurraham/task/blob/main/output/Mokhles.jpg)
 
 
 
